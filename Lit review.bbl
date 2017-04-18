@@ -1,0 +1,58 @@
+\begin{thebibliography}{10}
+
+\bibitem{ilievski2011soft}
+F.~Ilievski, A.~D. Mazzeo, R.~F. Shepherd, X.~Chen, and G.~M. Whitesides,
+  ``Soft robotics for chemists,'' {\em Angewandte Chemie}, vol.~123, no.~8,
+  pp.~1930--1935, 2011.
+
+\bibitem{bilodeau2015monolithic}
+R.~A. Bilodeau, E.~L. White, and R.~K. Kramer, ``Monolithic fabrication of
+  sensors and actuators in a soft robotic gripper,'' in {\em Intelligent Robots
+  and Systems (IROS), 2015 IEEE/RSJ International Conference on},
+  pp.~2324--2329, IEEE, 2015.
+
+\bibitem{mosadegh2014pneumatic}
+B.~Mosadegh, P.~Polygerinos, C.~Keplinger, S.~Wennstedt, R.~F. Shepherd,
+  U.~Gupta, J.~Shim, K.~Bertoldi, C.~J. Walsh, and G.~M. Whitesides,
+  ``Pneumatic networks for soft robotics that actuate rapidly,'' {\em Advanced
+  Functional Materials}, vol.~24, no.~15, pp.~2163--2170, 2014.
+
+\bibitem{martinez2013robotic}
+R.~V. Martinez, J.~L. Branch, C.~R. Fish, L.~Jin, R.~F. Shepherd, R.~Nunes,
+  Z.~Suo, and G.~M. Whitesides, ``Robotic tentacles with three-dimensional
+  mobility based on flexible elastomers,'' {\em Advanced Materials}, vol.~25,
+  no.~2, pp.~205--212, 2013.
+
+\bibitem{marchese2015recipe}
+A.~D. Marchese, R.~K. Katzschmann, and D.~Rus, ``A recipe for soft fluidic
+  elastomer robots,'' {\em Soft Robotics}, vol.~2, no.~1, pp.~7--25, 2015.
+
+\bibitem{hassan2015design}
+T.~Hassan, M.~Manti, G.~Passetti, N.~d'Elia, M.~Cianchetti, and C.~Laschi,
+  ``Design and development of a bio-inspired, under-actuated soft gripper,'' in
+  {\em Engineering in Medicine and Biology Society (EMBC), 2015 37th Annual
+  International Conference of the IEEE}, pp.~3619--3622, IEEE, 2015.
+
+\bibitem{fresh_facts_2015}
+``Fresh facts 2015,'' Jun 2015.
+
+\bibitem{injury_statistics_tool_2017}
+``Injury statistics tool,'' Mar 2017.
+
+\bibitem{kim2013soft}
+S.~Kim, C.~Laschi, and B.~Trimmer, ``Soft robotics: a bioinspired evolution in
+  robotics,'' {\em Trends in biotechnology}, vol.~31, no.~5, pp.~287--294,
+  2013.
+
+\bibitem{martinez2014soft}
+R.~V. Martinez, A.~C. Glavan, C.~Keplinger, A.~I. Oyetibo, and G.~M.
+  Whitesides, ``Soft actuators and robots that are resistant to mechanical
+  damage,'' {\em Advanced Functional Materials}, vol.~24, no.~20,
+  pp.~3003--3010, 2014.
+
+\bibitem{dollar2010contact}
+A.~M. Dollar, L.~P. Jentoft, J.~H. Gao, and R.~D. Howe, ``Contact sensing and
+  grasping performance of compliant hands,'' {\em Autonomous Robots}, vol.~28,
+  no.~1, p.~65, 2010.
+
+\end{thebibliography}

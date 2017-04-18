@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.14)  4 APR 2017 16:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.14)  18 APR 2017 19:33
 entering extended mode
 **"./Lit review.tex"
 ("Lit review.tex"
@@ -402,7 +402,11 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@dimlist=\toks17
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-("Lit review.aux")
+("Lit review.aux"
+
+LaTeX Warning: Label `fig:Picking' multiply defined.
+
+)
 \openout1 = `"Lit review.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -514,28 +518,87 @@ Package pdftex.def Info: logo.png used on input line 12.
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./logo.png>] ("Lit review
-.toc")
+.toc"
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+)
 \tf@toc=\write3
 \openout3 = `"Lit review.toc"'.
 
  [1]
-("Lit review.aux") ) 
+Underfull \hbox (badness 10000) in paragraph at lines 37--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--44
+
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 45.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 45.
+
+<pie_imports.jpg, id=17, 619.113pt x 393.26926pt>
+File: pie_imports.jpg Graphic file (type jpg)
+ <use pie_imports.jpg>
+Package pdftex.def Info: pie_imports.jpg used on input line 55.
+(pdftex.def)             Requested size: 278.59828pt x 176.96953pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<Pickers.jpg, id=18, 877.77937pt x 575.14874pt>
+File: Pickers.jpg Graphic file (type jpg)
+ <use Pickers.jpg>
+Package pdftex.def Info: Pickers.jpg used on input line 63.
+(pdftex.def)             Requested size: 175.55276pt x 115.02771pt.
+ [1]
+Underfull \hbox (badness 10000) in paragraph at lines 70--74
+
+ []
+
+[2 <./pie_imports.jpg> <./Pickers.jpg>]
+<Tendon.jpg, id=26, 833.514pt x 345.08925pt>
+File: Tendon.jpg Graphic file (type jpg)
+ <use Tendon.jpg>
+Package pdftex.def Info: Tendon.jpg used on input line 85.
+(pdftex.def)             Requested size: 375.07784pt x 155.28873pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[3] ("Lit review.bbl" [4 <./Tendon.jpg>]) [5] ("Lit review.aux")
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2309 strings out of 493333
- 31229 string characters out of 3139197
- 97405 words of memory out of 3000000
- 5819 multiletter control sequences out of 15000+200000
- 7006 words of font info for 25 fonts, out of 3000000 for 9000
+ 2380 strings out of 493333
+ 32282 string characters out of 3139197
+ 103495 words of memory out of 3000000
+ 5872 multiletter control sequences out of 15000+200000
+ 10099 words of font info for 35 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,5n,32p,244b,150s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10
-.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program F
-iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "Lit review.pdf" (2 pages, 131852 bytes).
+ 39i,8n,32p,1303b,230s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmti12.pfb>
+Output written on "Lit review.pdf" (7 pages, 1389019 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
+ 64 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

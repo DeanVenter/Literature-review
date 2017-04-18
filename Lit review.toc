@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {2}Project Context}{1}
+\contentsline {subsection}{\numberline {2.1}Manual seasonal labour}{2}
+\contentsline {subsection}{\numberline {2.2}Autonomous soft grippers}{2}
+\contentsline {section}{\numberline {3}Past and current Methods}{3}
+\contentsline {subsection}{\numberline {3.1}Mechanical}{3}
+\contentsline {subsection}{\numberline {3.2}Tendon actuated soft gripper}{3}
+\contentsline {subsection}{\numberline {3.3}Pneumatic under-actuated}{4}
+\contentsline {subsection}{\numberline {3.4}Particle jamming}{4}
+\contentsline {section}{\numberline {4}Most promising current method}{4}
+\contentsline {section}{\numberline {5}Bio-mimetic Options}{4}
+\contentsline {section}{\numberline {6}Materials}{4}
+\contentsline {section}{\numberline {7}Applicable Sensors}{4}
+\contentsline {section}{\numberline {8}Conclusion}{4}
