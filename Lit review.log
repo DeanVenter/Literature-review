@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.14)  18 APR 2017 19:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.14)  19 APR 2017 20:05
 entering extended mode
 **"./Lit review.tex"
 ("Lit review.tex"
@@ -402,38 +402,59 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@dimlist=\toks17
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-("Lit review.aux"
-
-LaTeX Warning: Label `fig:Picking' multiply defined.
-
+("C:\Program Files\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty"
+\wrapoverhang=\dimen113
+\WF@size=\dimen114
+\c@WF@wrappedlines=\count91
+\WF@box=\box26
+\WF@everypar=\toks18
+Package: wrapfig 2003/01/31  v 3.6
 )
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip43
+\LTright=\skip44
+\LTpre=\skip45
+\LTpost=\skip46
+\LTchunksize=\count92
+\LTcapwidth=\dimen115
+\LT@head=\box27
+\LT@firsthead=\box28
+\LT@foot=\box29
+\LT@lastfoot=\box30
+\LT@cols=\count93
+\LT@rows=\count94
+\c@LT@tables=\count95
+\c@LT@chunks=\count96
+\LT@p@ftn=\toks19
+) ("Lit review.aux")
 \openout1 = `"Lit review.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
  ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count91
-\scratchdimen=\dimen113
-\scratchbox=\box26
-\nofMPsegments=\count92
-\nofMParguments=\count93
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count94
-\MPscratchDim=\dimen114
-\MPnumerator=\count95
-\makeMPintoPDFobject=\count96
-\everyMPtoPDFconversion=\toks19
+\scratchcounter=\count97
+\scratchdimen=\dimen116
+\scratchbox=\box31
+\nofMPsegments=\count98
+\nofMParguments=\count99
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count100
+\MPscratchDim=\dimen117
+\MPnumerator=\count101
+\makeMPintoPDFobject=\count102
+\everyMPtoPDFconversion=\toks21
 ) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
 Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -513,7 +534,7 @@ G,.JBIG2,.JB2,.eps]
 <logo.png, id=1, 131.7723pt x 135.1449pt>
 File: logo.png Graphic file (type png)
  <use logo.png>
-Package pdftex.def Info: logo.png used on input line 12.
+Package pdftex.def Info: logo.png used on input line 14.
 (pdftex.def)             Requested size: 140.92793pt x 144.54173pt.
  [1
 
@@ -530,75 +551,187 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout3 = `"Lit review.toc"'.
 
  [1]
-Underfull \hbox (badness 10000) in paragraph at lines 37--44
+Underfull \hbox (badness 10000) in paragraph at lines 39--46
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--44
+Underfull \hbox (badness 10000) in paragraph at lines 39--46
 
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 45.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 47.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 45.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 47.
 
 <pie_imports.jpg, id=17, 619.113pt x 393.26926pt>
 File: pie_imports.jpg Graphic file (type jpg)
  <use pie_imports.jpg>
-Package pdftex.def Info: pie_imports.jpg used on input line 55.
+Package pdftex.def Info: pie_imports.jpg used on input line 57.
 (pdftex.def)             Requested size: 278.59828pt x 176.96953pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<Pickers.jpg, id=18, 877.77937pt x 575.14874pt>
+[1] <Pickers.jpg, id=22, 877.77937pt x 575.14874pt>
 File: Pickers.jpg Graphic file (type jpg)
  <use Pickers.jpg>
-Package pdftex.def Info: Pickers.jpg used on input line 63.
+Package pdftex.def Info: Pickers.jpg used on input line 65.
 (pdftex.def)             Requested size: 175.55276pt x 115.02771pt.
- [1]
-Underfull \hbox (badness 10000) in paragraph at lines 70--74
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--76
 
  []
 
 [2 <./pie_imports.jpg> <./Pickers.jpg>]
-<Tendon.jpg, id=26, 833.514pt x 345.08925pt>
+Underfull \hbox (badness 10000) in paragraph at lines 82--86
+
+ []
+
+[3] <Mechanical1.jpg, id=29, 337.86224pt x 231.264pt>
+File: Mechanical1.jpg Graphic file (type jpg)
+ <use Mechanical1.jpg>
+Package pdftex.def Info: Mechanical1.jpg used on input line 103.
+(pdftex.def)             Requested size: 169.1113pt x 115.75522pt.
+
+<Mechanical2.jpg, id=30, 359.54324pt x 196.93575pt>
+File: Mechanical2.jpg Graphic file (type jpg)
+ <use Mechanical2.jpg>
+Package pdftex.def Info: Mechanical2.jpg used on input line 109.
+(pdftex.def)             Requested size: 234.8775pt x 128.65277pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--114
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--114
+
+ []
+
+<Tendon.jpg, id=31, 833.514pt x 345.08925pt>
 File: Tendon.jpg Graphic file (type jpg)
  <use Tendon.jpg>
-Package pdftex.def Info: Tendon.jpg used on input line 85.
-(pdftex.def)             Requested size: 375.07784pt x 155.28873pt.
+Package pdftex.def Info: Tendon.jpg used on input line 125.
+(pdftex.def)             Requested size: 281.85587pt x 116.69165pt.
+
+<Tendon2.jpg, id=32, 864.831pt x 204.765pt>
+File: Tendon2.jpg Graphic file (type jpg)
+ <use Tendon2.jpg>
+Package pdftex.def Info: Tendon2.jpg used on input line 131.
+(pdftex.def)             Requested size: 205.5214pt x 48.66031pt.
+
+Overfull \hbox (41.10428pt too wide) in paragraph at lines 131--132
+[][] 
+ []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+Underfull \hbox (badness 10000) in paragraph at lines 115--138
 
-[3] ("Lit review.bbl" [4 <./Tendon.jpg>]) [5] ("Lit review.aux")
+ []
 
-LaTeX Warning: There were multiply-defined labels.
 
- ) 
+Underfull \hbox (badness 10000) in paragraph at lines 115--138
+
+ []
+
+[4 <./Mechanical1.jpg> <./Mechanical2.jpg>] [5 <./Tendon.jpg> <./Tendon2.jpg>]
+<Pneumatic1.jpg, id=40, 244.5135pt x 449.88075pt>
+File: Pneumatic1.jpg Graphic file (type jpg)
+ <use Pneumatic1.jpg>
+Package pdftex.def Info: Pneumatic1.jpg used on input line 142.
+(pdftex.def)             Requested size: 156.49014pt x 287.93643pt.
+
+Underfull \hbox (badness 1424) in paragraph at lines 146--152
+[]\OT1/cmr/m/n/10.95 Pneumatic grip-pers are soft robotics ac-tu-
+ []
+
+
+Underfull \hbox (badness 1142) in paragraph at lines 146--152
+\OT1/cmr/m/n/10.95 jects safely and se-curely whilst us-ing very
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 146--152
+\OT1/cmr/m/n/10.95 sim-ple con-trol [[]]. In or-der to al-low for
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 146--152
+\OT1/cmr/m/n/10.95 spe-cially de-signed pneu-nets has to be al-
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 146--152
+\OT1/cmr/m/n/10.95 ing the fin-ger to be de-flected to the side
+ []
+
+
+Underfull \hbox (badness 2818) in paragraph at lines 146--152
+\OT1/cmr/m/n/10.95 on it [[]]-[[]]. By re-duc-ing the pres-sure
+ []
+
+
+Underfull \hbox (badness 2837) in paragraph at lines 146--152
+\OT1/cmr/m/n/10.95 in the pnue-nets be-low at-mo-spheric pres-
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 146--152
+\OT1/cmr/m/n/10.95 sure, a con-trac-tion is caused, thus caus-
+ []
+
+
+Underfull \hbox (badness 1460) in paragraph at lines 146--152
+\OT1/cmr/m/n/10.95 ing the fin-ger to de-flect to-wards the side
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--152
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--160
+
+ []
+
+[6 <./Pneumatic1.jpg>] ("Lit review.bbl" [7]) [8] ("Lit review.aux") ) 
 Here is how much of TeX's memory you used:
- 2380 strings out of 493333
- 32282 string characters out of 3139197
- 103495 words of memory out of 3000000
- 5872 multiletter control sequences out of 15000+200000
+ 2565 strings out of 493333
+ 34674 string characters out of 3139197
+ 110398 words of memory out of 3000000
+ 6045 multiletter control sequences out of 15000+200000
  10099 words of font info for 35 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,8n,32p,1303b,230s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmti12.pfb>
-Output written on "Lit review.pdf" (7 pages, 1389019 bytes).
+ 39i,9n,32p,1357b,289s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12
+.pfb>
+Output written on "Lit review.pdf" (10 pages, 1589401 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
+ 77 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

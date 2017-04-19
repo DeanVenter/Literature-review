@@ -3,7 +3,9 @@
 \usepackage{graphicx}
 \usepackage{color}
 \usepackage[margin=1.in]{geometry}
-
+\usepackage{wrapfig}
+\usepackage[utf8]{inputenc}
+\usepackage{longtable}
 \setcounter{page}{3}
 
 \begin{document}
@@ -34,10 +36,10 @@
 \tableofcontents
 \end{titlepage}
 \section{Introduction}
-The capability to autonomously grasp objects remain a chalenge, even in the modern day and age since we continually strive to produce a gripper whcih is equally or more effective than the the human hand. There are a wide range of robotic grippers available in industry, all of whcih have different capabilities and purposes. Conventional grippers are currently prodominantly being produced using rigid links, mechanical joints and are mechanically actuated \cite{ilievski2011soft}. However, the conventional methods are not suitable for delicate operations such as minimally invasive surgery or handling delicate objects such as produce in the form of fesh fruit and vegetables, thus soft robotics has been becoming an increasingly popular alternative. The research into soft robotic alternatives is being done in order to produce soft robots which are capable of completing tasks which conventional rigid-bodied robots are incapable of doing such as delicately handling soft items or working alongside humans \cite{bilodeau2015monolithic}.
+The capability to autonomously grasp objects remain a chalenge, even in the modern day and age since we continually strive to produce a gripper whcih is equally or more effective than the the human hand. There are a wide range of robotic grippers available in industry, all of which have different capabilities and purposes. Conventional grippers are currently prodominantly being produced using rigid links, mechanical joints and are mechanically actuated \cite{ilievski2011soft}. However, the conventional methods are not suitable for delicate operations such as minimally invasive surgery or handling delicate objects such as produce in the form of fesh fruit and vegetables, thus soft robotics has been becoming an increasingly popular alternative. The research into soft robotic alternatives is being done in order to produce soft robots which are capable of completing tasks which conventional rigid-bodied robots are incapable of doing such as delicately handling soft items or working alongside humans \cite{bilodeau2015monolithic}.
 \\
 \newline
-Soft robotics is a biologically inspired class of robotics which is produced using non-rigid, elastomer's which have the capability to morph and conform around the object which they are gripping to varying extents\cite{ilievski2011soft,bilodeau2015monolithic,mosadegh2014pneumatic,martinez2013robotic,marchese2015recipe}.The rigidity of the gripper can be altered in order to suit the required application, allowing it to be more complient and have multiple of an infinate degrees of freedom \cite{hassan2015design}. By using soft materials, it allows us to mimic the capability of the soft tissue of animals morphing around the object which is being grasped, thus allowing for the stress being produced in the grasp to be distributed over a larger area, thus reducing the pressure on the object being grasped \cite{ilievski2011soft}. In the case of grasping delicate objects, this capability is highly sought after because it allows for no point loading, thus reducing the risk of damage  during handling.
+Soft robotics is a biologically inspired class of robotics which is produced using non-rigid, elastomer's which have the capability to morph and conform around the object which they are gripping to varying extents\cite{ilievski2011soft,bilodeau2015monolithic,mosadegh2014pneumatic,martinez2013robotic,marchese2015recipe}. Soft robots are defined as machines made of soft, elastomer type materials or machines composed of multiple hard-robotic actuators that operate in concert, and demonstrates soft-robot-like properties \cite{ilievski2011soft}. The rigidity of the gripper can be altered in order to suit the required application, allowing it to be more complient and have multiple of an infinate degrees of freedom \cite{hassan2015design}. By using soft materials, it allows us to mimic the capability of the soft tissue of animals morphing around the object which is being grasped, thus allowing for the stress being produced in the grasp to be distributed over a larger area, thus reducing the pressure on the object being grasped \cite{ilievski2011soft}. In the case of grasping delicate objects, this capability is highly sought after because it allows for no point loading, thus reducing the risk of damage  during handling.
 \\
 \newline
 There are a wide range of soft grippers which operate differently based on the geometrical layout of the gripper as well as the actuation. Such grippers include:
@@ -66,27 +68,114 @@ The kiwi fruit harvesting season in New Zealand is between the months of April a
 \end{figure}
 
 
-\subsection{Autonomous soft grippers}
+\subsection{Research Scope}
 Soft robotics is a revolutionary bio-inspired branch of robotics. It incorporates soft technologies which can potentially reduce the mechanical and algoritimic complexity in current robots. It allows robots to have bio inspired capabilities such as flexible interactions in unpredictable environments \cite{kim2013soft}. The current autonomous methods of harvesting the fruits from the vine are very mechanical and often do not have the capability of harvesting the fruit delicately to ensure minimal or no bruising occurs to the specimen. Many of the handling mechanisms currently used grip the fruits too firmly, incorrectly, or do not morph around the shape of the specimen, thus causing damage to the fruit. The most efficient of the current autonomous methods all have a biometric inspired design \cite{hassan2015design}. Thus is due to the fact that the shape of the humanoid hand, leads to optimal picking due to the fact that there is large amounts of surface area and force control. Bruising of fruits can cause the skin to split, leading to the opportunity for bacteria and fungi to enter the fruit. This causes the fruit to spoil at an accelerated rate, thus not being of an acceptable standard for purchase once it has made it to the point of retail .
 \\
 \newline
-Considering the context of the problem which has been discussed above, I propose to conduct research into the harvesting mechanisms of delicate fruits and berries such as kiwifruit with the aim of recommending a soft robotic manipulator which has a success rate of handling produce more efficiently than the current methods used in industry. Since most of the current methods are very mechanical based, this research will be more focused on the biomimetric solutions and it can produce a more effective solution. This project is limited to the end effector of the robot only. It will be designed to be attached onto an existing robot which already has the capability of moving around the orchard as well as manipulating the end effector to be in reach of the fruit or berries. Thus the remainder of the robot is not in the scope of this project.
-
+Considering the context of the problem which has been discussed above I have conducted research into the current soft robotic grippers which could possibly be suitable to handle and manipulate delicate produce efficiently. The grippers which have been research are as follows:
+\begin{itemize}
+\item Mechanically actuated
+\item Tendon under actuated soft gripper
+\item Pneumatic under actuated
+\item Particle jamming 
+\end{itemize}
+Each of the above mentioned methods have been thoroughly researched to determine their suitability by finding the advantages and disadvantages associated with each of the methods. From this research, it has been found that the most suitable method mechanism is in fact the pneumatic under actuated method. Thus this method has been even further research to look at the variations within the pneumatic field itself. Since up to date, the fruits have been predominantly been harvested by hand, biomimetric options have also been researched. Since the material composition of a soft robotic gripper greatly affects its functionality, optimal materials have also been researched.
+\\
+\newline
+In order to have completed the required research to the highest possible standard, it was imperative to ensure that the resources which are being used are of the highest possible quality. Thus the I only used resources which full filled the following requirements:
+\begin{itemize}
+\item Reputable Resources: Only articles which have been reviewed and previously cited by multiple other sources have been used.
+\item Current Resources: All of the resources used were published no longer than 7 years ago. This means that the information discussed in the article is still relevant. The only exception for this was made for researching mechanical grippers due to the fact that it is a outdated model.
+\end{itemize}
 \section{Past and current Methods}
-what are the current methods of gripping delicate objects\cite{mosadegh2014pneumatic}?
+There a wide range of grippers currently in the marketplace, which have the potential to handle delicate produce such as fresh fruit and produce to various extents. Each of the viable options have been discussed below along with the advantages and disadvantages associated with each respective design.
 \subsection{Mechanical}
-Mechanical grippers are grippers which have been produced using rigid links and mechanical joints as well as being mechanically actuated using linear actuators and motors. Mechanical grippers where the shit is the anchient times doe......
-Mechanical grippers are very useful at their time when high precision and rapid actuation is required, however their shortcomings are quickly exposed when it comes to handling soft or delicate objects. Due to the mechanical nature, rigid links and joints are required for actuation, thus causing the grippers to be heavy, costly, difficult to control and un-compliant to a array of different shapes \cite{martinez2014soft}. The rigid rigid materials used in production makes it very difficult to develop a mechanical gripper which is capable of handling a range of shapes without causing damage though point loading.
-
-\subsection{Tendon actuated soft gripper}
-Tendon actuated soft grippers were the first major leap into the soft robotics field. The as suggested in the name the gripper is actuated using tendon like cables. The cables are often actuated using a range of servo and linear actuators in order to achieve the desired range of motion \cite{marchese2015recipe, dollar2010contact}
-\begin{figure}[h]
+Mechanical grippers were the first of the robotic grippers produced. They are produced using rigid links, mechanical joints as well as being mechanically actuated using a combination of linear actuators, pneumatic actuators and motors \cite{marchese2015recipe}. Mechanical grippers are very usefull when high precision and rapid actuation is required, however their shortcomings are quickly exposed when it comes to handling soft or delicate objects \cite{ilievski2011soft}. Due to this mechanical nature where rigid links and joints are required for actuation, mechanical girppers are heavy, costly, difficult to control and un-compliant to a array of different shapes \cite{martinez2014soft}. In order to make the mechanical gripper more compliant to delicate objects of irregular shapes, a wide range of sensors are required such as machine vision, tactile sensors and switches. Without all of these sensors, the mechhanical grippers are unable to determine how firm their grip is, thus often causing damage \cite{ceccarelli2000designing}.
+\\
+\newline
+The rigid materials used in production makes it very difficult to develop a mechanical gripper which is capable of handling a range of shapes without causing damage though point loading. In the case of the two fingered design which is shown in Figure \ref{fig:Mechanical1}, it is clear to see that the gripper would not be fit for purpose Due to the minimal surface area over which the force will be spread, it is almost certain that the produce will be blemished or bruised. However this design was produced in 1999 and since then huge improvements have been made even in the case of the mechanical grippers. Figure \ref{fig:Mechanical2} is a concept for a apple picking robot which was developed in 2013. In order to make the gripper more compliant, soft foam rubber was placed on each of the 4 fingers in order to provide cushioning and to distribute the pressure of  the grip over a larger area \cite{chiu2013development}.
+\\
+\newline
+When considering mechanical gripper, there are a number of issues which hinder its success when handling delicate produce 
+\begin{figure}[!h]
 \centering
-\includegraphics[scale=0.45]{Tendon}
-\caption{Tendon actuated soft gripper}
-\label{fig:Picking}
+\begin{minipage}[b]{.45\textwidth}
+\includegraphics[width=0.8\linewidth]{Mechanical1}
+\caption{Two Fingered Mechanical Gripper}
+\label{fig:Mechanical1}
+\end{minipage}
+\hfill
+\begin{minipage}[b]{0.5\textwidth}
+\includegraphics[width=1\linewidth]{Mechanical2}
+\caption{Tomato Picking Mechanical Gripper}
+\label{fig:Mechanical2}
+\end{minipage}
 \end{figure}
+\subsection{Tendon actuated soft gripper}
+Tendon actuated soft grippers were one of the first major leaps into the soft robotics field. The gripper is actuated using cables which are drawn mechanically using a combination of servo and linear actuators in order to achieve the desired range of motion \cite{marchese2015recipe}. The cables are usually composed of nylon-coated stainless steel, allowing them to be durable, sufficiently strong and able to pass through low friction tubing easily \cite{dollar2010contact}. The cable is anchored in a distal link in the tip of the finger then passes through the fingers of the gripper, usually through low friction tubing, to the respective source of actuation \cite{dollar2010contact}, which allows the joints of the finger to bend respective to the tension the cable as illustrated in Figure \ref{fig:Tendon}. The tendons are place off centre, closer to the inside edge off desired actuation as shown in Figure \ref{fig:Tendon2}, thus once the cables are placed under tension, the finger will bend to the least restricted orientation, providing the grasping effect. In order to mimic the biological counter part, which is a humanoid hand, the finger of the actuator should either be produced using rigid links which are encased in a compliant material or have a semi rigid backbone \cite{mutlu2016mechanical}. 
+\\
+\newline
+By using a rigid link in the fingers of the gripper, it would mean that there is a limited amount of conformation which can occur. Thus more of the developers choose to make use of the second option of using a semi-rigid backbone, allowing for a greater amount of conformation to occur, resulting in a more complient grip. Since soft robotics often suffer from not being capable of carrying their own body weight \cite{mutlu2016mechanical}, it is important to select the material used in the production of the semi-rigid model to ensure that the materials allow the gripper to work as required. The grip interface should be produced using a very soft material to maximise surface area due to deformation upon applying force, however the backbone should be stiff enough such that it is capable of impressing sufficient force onto the object being handled as well as sustaining its own weight \cite{hassan2015design}.  
+\\
+\newline
+In the case of the Under Actuated Soft Gripper shown in Figure \ref{fig:Tendon2}, Dragon Skin 30 is used as the material for the touch interface due to the finish of the elastomer providing a good grip, low cost and having a low density \cite{hassan2015design}. The backbone of the gripper has been produced using Smooth-Sil 950 due to its Elastic modulus of 5MPa which allows the gripper to have enough rigidity to be able to support itself without hindering its grasping capabilities. The 3D Printed Soft Prosthetic Finger has used a similar but different approach. The designer has opted to use FilaFlex, a  available thermoplastic to produce the griper. The FilaFlex was chosen due to the fact that it is low cost, 3D printable as well as being compliant \cite{mutlu2016mechanical}. By using a 3D printable thermoplastic, alterations of the  concept is made easier and more cost effective.
+\begin{figure}[!h]
+\centering
+\begin{minipage}[b]{.6\textwidth}
+\includegraphics[width=\linewidth]{Tendon}
+\caption{Under Actuated Soft Gripper}
+\label{fig:Tendon}
+\end{minipage}
+\hfill
+\begin{minipage}[b]{0.35\textwidth}
+\includegraphics[width=1.25\linewidth]{Tendon2}
+\caption{3D Printed Soft Prosthetic Finger}
+\label{fig:Tendon2}
+\end{minipage}
+\end{figure}
+From the two Tendon actuated grippers which have been discussed above, the trends and similarities are clear. By using the tendon actuated system, it has allowed the gripper to not only have its soft elastomer touch interface to conform around the target object, but has also given the opportunity for the finger to bend at the joints to physically grasp the object, much like a human does.
+\pagebreak
 \subsection{Pneumatic under-actuated}
+\begin{wrapfigure}{r}{0.5\textwidth}
+\begin{center}
+\caption{Soft Pneumatic Actuator.}
+\includegraphics[width=5.5cm]{Pneumatic1}
+\label{pneumatic1}
+\end{center}
+\end{wrapfigure} 
+Pneumatic grippers are soft robotics actuated by inflating specially designed elastomeric pockets called "pneu-nets", which are appealing for handling delicatle and complex objects safely and securely whilst using very simple control \cite{mosadegh2014pneumatic}. In order to allow for actuation to occur, the air pressure in the specially designed pneu-nets has to be altered. By inflating the chambers, they expand and press against one another, causing the finger to be deflected to the side which does not have the pnue-nets located on it \cite{ilievski2011soft}-\cite{marchese2015recipe}. By reducing the pressure in the pnue-nets below atmospheric pressure, a contraction is caused, thus causing the finger to deflect towards the side of the finger with the pnue-net chambers\cite{ilievski2011soft}-\cite{marchese2015recipe}. 
+\\
+\\
+\\
+\newline
+Pressurised air was used to actuate the gripper rather than using a hydraulic medium for due to the following advantages provided by using air \cite{mosadegh2014pneumatic}:
+\begin{itemize}
+\item Air provides rapid inflation due to its low viscosity.
+\item It is easily controlled and measured.
+\item It is available basically everywhere at no cost.
+\item It is light weight, thus does not put added strain on the actuator.
+\item It can be discarded after use by venting the air back into the atmosphere.
+\\
+\newline
+\end{itemize}
+In order to allow the pneu-nets to expand, the gripper needs to be produced using a material which has a low enough modulus of elasticity to allow each of the chambers to expand reasonably easily.It is imperative that the pnue-net chambers are only capable of expanding on one side of the actuator, otherwise the actuators will not work.
+\begin{center}
+\begin{tabular}{ |p{6cm}||p{6cm}| }
+ \hline
+ \multicolumn{2}{|c|}{Materials Used in Production} \\
+ \hline
+ Pneu-Net side & Extensive Side\\
+ \hline
+ EcoFlex 0300 \cite{ilievski2011soft},\cite{bilodeau2015monolithic},\cite{mosadegh2014pneumatic}   & Silgard 184 (PDMS)  \cite{ilievski2011soft},\cite{bilodeau2015monolithic} \\
+ Dragon Skin \cite{hao2016universal} &   Elastosil M4601 \cite{mosadegh2014pneumatic}\\
+ & Dragon Skin \cite{hao2016universal}\\
+ \hline
+\end{tabular}
+\end{center}
+
+From table **** above it is clear to see that through the various article I researched, there is a definite trend in the materials  which have been used. The Pneu-Net side of the actuator is often produced using EcoFlex 0300 due to its relatively low Young's modulus of elasticity of approximately 0.1 MPa. This modulus allows the Pnue-net chambers to contract and expand with relatively low loss of energy. The extensive side has a bit more variation in materials which are used. The modulus of elasticity for the extensive materials tend to range from approximately 5 to 7 Mpa. This allows the actuator to bend according the state of the status of the Pnue-Nets whilst still having the rigidity to support its own weigh and the weight of the object being handled.
+\subsection{Different Pnue-Net Configurations}
+The performance of the Pnuematic Gripper depends on the layout of the Pnue-Nets. It is possible to make Pneumatic grippers which have very different capabilities and responses by making small alterations to the structure of the air chambers. The fPN,like the sPN, however the fPN contains gaps between the walls of each chambers \cite{mosadegh2014pneumatic}.
 \subsection{Particle jamming}
 \section{Most promising current method}
 From the analysis which has been done on each of the current options, it was prominent to see that the most promising of the methods was indeed the pneumatically actuated model. This model have been testing using a wide range of configurations and 

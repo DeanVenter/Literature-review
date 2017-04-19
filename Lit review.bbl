@@ -50,9 +50,31 @@ R.~V. Martinez, A.~C. Glavan, C.~Keplinger, A.~I. Oyetibo, and G.~M.
   damage,'' {\em Advanced Functional Materials}, vol.~24, no.~20,
   pp.~3003--3010, 2014.
 
+\bibitem{ceccarelli2000designing}
+M.~Ceccarelli, G.~Figliolini, E.~Ottaviano, A.~S. Mata, and E.~J. Criado,
+  ``Designing a robotic gripper for harvesting horticulture products,'' {\em
+  Robotica}, vol.~18, no.~1, pp.~105--111, 2000.
+
+\bibitem{chiu2013development}
+Y.-C. Chiu, P.-Y. Yang, and S.~Chen, ``Development of the end-effector of a
+  picking robot for greenhouse-grown tomatoes,'' {\em Applied Engineering in
+  Agriculture}, vol.~29, no.~6, pp.~1001--1009, 2013.
+
 \bibitem{dollar2010contact}
 A.~M. Dollar, L.~P. Jentoft, J.~H. Gao, and R.~D. Howe, ``Contact sensing and
   grasping performance of compliant hands,'' {\em Autonomous Robots}, vol.~28,
   no.~1, p.~65, 2010.
+
+\bibitem{mutlu2016mechanical}
+R.~Mutlu, S.~K. Yildiz, G.~Alici, M.~in~het Panhuis, and G.~M. Spinks,
+  ``Mechanical stiffness augmentation of a 3d printed soft prosthetic finger,''
+  in {\em Advanced Intelligent Mechatronics (AIM), 2016 IEEE International
+  Conference on}, pp.~7--12, IEEE, 2016.
+
+\bibitem{hao2016universal}
+Y.~Hao, Z.~Gong, Z.~Xie, S.~Guan, X.~Yang, Z.~Ren, T.~Wang, and L.~Wen,
+  ``Universal soft pneumatic robotic gripper with variable effective length,''
+  in {\em Control Conference (CCC), 2016 35th Chinese}, pp.~6109--6114, IEEE,
+  2016.
 
 \end{thebibliography}
