@@ -71,10 +71,56 @@ R.~Mutlu, S.~K. Yildiz, G.~Alici, M.~in~het Panhuis, and G.~M. Spinks,
   in {\em Advanced Intelligent Mechatronics (AIM), 2016 IEEE International
   Conference on}, pp.~7--12, IEEE, 2016.
 
+\bibitem{amend2012positive}
+J.~R. Amend, E.~Brown, N.~Rodenberg, H.~M. Jaeger, and H.~Lipson, ``A positive
+  pressure universal gripper based on the jamming of granular material,'' {\em
+  IEEE Transactions on Robotics}, vol.~28, no.~2, pp.~341--350, 2012.
+
+\bibitem{shepherd2011multigait}
+R.~F. Shepherd, F.~Ilievski, W.~Choi, S.~A. Morin, A.~A. Stokes, A.~D. Mazzeo,
+  X.~Chen, M.~Wang, and G.~M. Whitesides, ``Multigait soft robot,'' {\em
+  Proceedings of the National Academy of Sciences}, vol.~108, no.~51,
+  pp.~20400--20403, 2011.
+
 \bibitem{hao2016universal}
 Y.~Hao, Z.~Gong, Z.~Xie, S.~Guan, X.~Yang, Z.~Ren, T.~Wang, and L.~Wen,
   ``Universal soft pneumatic robotic gripper with variable effective length,''
   in {\em Control Conference (CCC), 2016 35th Chinese}, pp.~6109--6114, IEEE,
   2016.
+
+\bibitem{miller2003automatic}
+A.~T. Miller, S.~Knoop, H.~I. Christensen, and P.~K. Allen, ``Automatic grasp
+  planning using shape primitives,'' in {\em Robotics and Automation, 2003.
+  Proceedings. ICRA'03. IEEE International Conference on}, vol.~2,
+  pp.~1824--1829, IEEE, 2003.
+
+\bibitem{shimoga1996robot}
+K.~B. Shimoga, ``Robot grasp synthesis algorithms: A survey,'' {\em The
+  International Journal of Robotics Research}, vol.~15, no.~3, pp.~230--266,
+  1996.
+
+\bibitem{saxena2008robotic}
+A.~Saxena, J.~Driemeyer, and A.~Y. Ng, ``Robotic grasping of novel objects
+  using vision,'' {\em The International Journal of Robotics Research},
+  vol.~27, no.~2, pp.~157--173, 2008.
+
+\bibitem{brown2010universal}
+E.~Brown, N.~Rodenberg, J.~Amend, A.~Mozeika, E.~Steltz, M.~R. Zakin,
+  H.~Lipson, and H.~M. Jaeger, ``Universal robotic gripper based on the jamming
+  of granular material,'' {\em Proceedings of the National Academy of
+  Sciences}, vol.~107, no.~44, pp.~18809--18814, 2010.
+
+\bibitem{mutlu2013electroactive}
+R.~Mutlu, G.~Alici, and W.~Li, ``Electroactive polymers as soft robotic
+  actuators: Electromechanical modeling and identification,'' in {\em Advanced
+  Intelligent Mechatronics (AIM), 2013 IEEE/ASME International Conference on},
+  pp.~1096--1101, IEEE, 2013.
+
+\bibitem{pillay2014review}
+V.~Pillay, T.-S. Tsai, Y.~E. Choonara, L.~C. du~Toit, P.~Kumar, G.~Modi,
+  D.~Naidoo, L.~K. Tomar, C.~Tyagi, and V.~M. Ndesendo, ``A review of
+  integrating electroactive polymers as responsive systems for specialized drug
+  delivery applications,'' {\em Journal of Biomedical Materials Research Part
+  A}, vol.~102, no.~6, pp.~2039--2054, 2014.
 
 \end{thebibliography}

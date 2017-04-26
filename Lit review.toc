@@ -1,15 +1,21 @@
 \contentsline {section}{\numberline {1}Introduction}{1}
 \contentsline {section}{\numberline {2}Project Context}{1}
 \contentsline {subsection}{\numberline {2.1}Manual seasonal labour}{2}
-\contentsline {subsection}{\numberline {2.2}Research Scope}{3}
-\contentsline {section}{\numberline {3}Past and current Methods}{3}
-\contentsline {subsection}{\numberline {3.1}Mechanical}{4}
-\contentsline {subsection}{\numberline {3.2}Tendon actuated soft gripper}{4}
-\contentsline {subsection}{\numberline {3.3}Pneumatic under-actuated}{6}
-\contentsline {subsection}{\numberline {3.4}Different Pnue-Net Configurations}{7}
-\contentsline {subsection}{\numberline {3.5}Particle jamming}{7}
-\contentsline {section}{\numberline {4}Most promising current method}{7}
-\contentsline {section}{\numberline {5}Bio-mimetic Options}{7}
-\contentsline {section}{\numberline {6}Materials}{7}
-\contentsline {section}{\numberline {7}Applicable Sensors}{7}
-\contentsline {section}{\numberline {8}Conclusion}{7}
+\contentsline {section}{\numberline {3}Methodology}{3}
+\contentsline {subsection}{\numberline {3.1}Research Scope}{3}
+\contentsline {section}{\numberline {4}Past and current Methods}{4}
+\contentsline {subsection}{\numberline {4.1}Mechanical}{4}
+\contentsline {subsection}{\numberline {4.2}Tendon actuated soft gripper}{5}
+\contentsline {subsubsection}{\numberline {4.2.1}Rigid Link Tendon Actuated}{6}
+\contentsline {subsubsection}{\numberline {4.2.2}Semi Rigid Tendon Actuated}{6}
+\contentsline {subsubsection}{\numberline {4.2.3}Material Selection}{6}
+\contentsline {subsection}{\numberline {4.3}Pneumatic under-actuated}{8}
+\contentsline {subsubsection}{\numberline {4.3.1}Pneu-Net configurations}{9}
+\contentsline {subsubsection}{\numberline {4.3.2}Material Selection}{9}
+\contentsline {subsection}{\numberline {4.4}Particle jamming}{10}
+\contentsline {subsubsection}{\numberline {4.4.1}Materials and make up}{11}
+\contentsline {subsubsection}{\numberline {4.4.2}How it works}{11}
+\contentsline {section}{\numberline {5}Electroactive Polymer}{12}
+\contentsline {section}{\numberline {6}Current Trends }{12}
+\contentsline {section}{\numberline {7}Applicable Sensors}{12}
+\contentsline {section}{\numberline {8}Conclusion}{12}
