@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.14)  26 APR 2017 16:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.14)  26 APR 2017 18:47
 entering extended mode
 **"./Lit review.tex"
 ("Lit review.tex"
@@ -518,14 +518,14 @@ G,.JBIG2,.JB2,.eps]
 * \headsep=25.0pt
 * \topskip=11.0pt
 * \footskip=30.0pt
-* \marginparwidth=59.0pt
+* \marginparwidth=4.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
 * \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
-* \@twocolumnfalse
+* \@twocolumntrue
 * \@twosidefalse
 * \@mparswitchfalse
 * \@reversemarginfalse
@@ -538,6 +538,7 @@ Package pdftex.def Info: logo.png used on input line 14.
 (pdftex.def)             Requested size: 140.92793pt x 144.54173pt.
  [1
 
+
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./logo.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 36.
@@ -549,16 +550,46 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 LaTeX Warning: No \author given.
 
-[1] ("Lit review.toc"
+[1
+
+
+] ("Lit review.toc"
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 3.
 )
 \tf@toc=\write3
 \openout3 = `"Lit review.toc"'.
 
- [1]
+ [1
+
+]
+Underfull \hbox (badness 1389) in paragraph at lines 52--59
+\OT1/cmr/m/n/10.95 poses. Con-ven-tional grip-pers are cur-rently
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 52--59
+\OT1/cmr/m/n/10.95 not suit-able for del-i-cate op-er-a-tions such as
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 52--59
 
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 52--59
+\OT1/cmr/m/n/10.95 Soft robotics is a bi-o-log-i-cally in-spired class
+ []
+
+
+Underfull \hbox (badness 1796) in paragraph at lines 52--59
+\OT1/cmr/m/n/10.95 in con-cert, and demon-strates soft-robot-like
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 52--59
+\OT1/cmr/m/n/10.95 prop-er-ties [[]]. The rigid-ity of the grip-per
  []
 
 
@@ -577,30 +608,48 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 File: pie_imports.jpg Graphic file (type jpg)
  <use pie_imports.jpg>
 Package pdftex.def Info: pie_imports.jpg used on input line 71.
-(pdftex.def)             Requested size: 278.59828pt x 176.96953pt.
+(pdftex.def)             Requested size: 229.06822pt x 145.50734pt.
 
-[1] <Pickers.jpg, id=26, 877.77937pt x 575.14874pt>
+[1
+
+] <Pickers.jpg, id=26, 877.77937pt x 575.14874pt>
 File: Pickers.jpg Graphic file (type jpg)
  <use Pickers.jpg>
 Package pdftex.def Info: Pickers.jpg used on input line 79.
 (pdftex.def)             Requested size: 175.55276pt x 115.02771pt.
 
+Underfull \hbox (badness 1365) in paragraph at lines 86--90
+\OT1/cmr/m/n/10.95 Soft robotics is a rev-o-lu-tion-ary bio-inspired
+ []
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+
+Underfull \hbox (badness 4341) in paragraph at lines 86--90
+\OT1/cmr/m/n/10.95 nolo-gies which can po-ten-tially re-duce the
+ []
+
+
+Underfull \hbox (badness 1668) in paragraph at lines 86--90
+\OT1/cmr/m/n/10.95 of har-vest-ing the fruit del-i-cately to en-sure
+ []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 86--90
 
  []
 
-[2 <./pie_imports.jpg>]
+[2 <./pie_imports.jpg> <./Pickers.jpg>]
+Underfull \hbox (badness 1221) in paragraph at lines 96--100
+\OT1/cmr/m/n/10.95 of a soft robotic grip-per greatly af-fects its
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 96--100
 
  []
 
-[3 <./Pickers.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 107--114
 
+Underfull \hbox (badness 4316) in paragraph at lines 96--100
+\OT1/cmr/m/n/10.95 In or-der to have com-pleted the re-quired
  []
 
 
@@ -608,187 +657,215 @@ Underfull \hbox (badness 10000) in paragraph at lines 107--114
 
  []
 
-[4] <Mechanical1.jpg, id=37, 337.86224pt x 231.264pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--114
+
+ []
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 107--114
+\OT1/cmr/m/n/10.95 Figure 4[] is a con-cept for a ap-ple pick-ing
+ []
+
+
+Underfull \hbox (badness 3029) in paragraph at lines 107--114
+\OT1/cmr/m/n/10.95 when han-dling del-i-cate pro-duce which are
+ []
+
+[3] <Mechanical1.jpg, id=33, 337.86224pt x 231.264pt>
 File: Mechanical1.jpg Graphic file (type jpg)
  <use Mechanical1.jpg>
-Package pdftex.def Info: Mechanical1.jpg used on input line 125.
-(pdftex.def)             Requested size: 169.1113pt x 115.75522pt.
+Package pdftex.def Info: Mechanical1.jpg used on input line 124.
+(pdftex.def)             Requested size: 202.7189pt x 138.75946pt.
 
-<Mechanical2.jpg, id=38, 359.54324pt x 196.93575pt>
+<Mechanical2.jpg, id=34, 359.54324pt x 196.93575pt>
 File: Mechanical2.jpg Graphic file (type jpg)
  <use Mechanical2.jpg>
 Package pdftex.def Info: Mechanical2.jpg used on input line 131.
-(pdftex.def)             Requested size: 234.8775pt x 128.65277pt.
+(pdftex.def)             Requested size: 215.7276pt x 118.16234pt.
 
-[5 <./Mechanical1.jpg> <./Mechanical2.jpg>]
-<Tendon.jpg, id=42, 833.514pt x 345.08925pt>
+[4 <./Mechanical1.jpg> <./Mechanical2.jpg>]
+<Tendon.jpg, id=39, 833.514pt x 345.08925pt>
 File: Tendon.jpg Graphic file (type jpg)
  <use Tendon.jpg>
 Package pdftex.def Info: Tendon.jpg used on input line 149.
-(pdftex.def)             Requested size: 281.85587pt x 116.69165pt.
+(pdftex.def)             Requested size: 258.36668pt x 106.96602pt.
 
-<Tendon2.jpg, id=43, 864.831pt x 204.765pt>
+<Tendon2.jpg, id=40, 864.831pt x 204.765pt>
 File: Tendon2.jpg Graphic file (type jpg)
  <use Tendon2.jpg>
 Package pdftex.def Info: Tendon2.jpg used on input line 155.
-(pdftex.def)             Requested size: 205.5214pt x 48.66031pt.
+(pdftex.def)             Requested size: 189.07867pt x 44.76723pt.
 
-Overfull \hbox (41.10428pt too wide) in paragraph at lines 155--156
+Overfull \hbox (24.66156pt too wide) in paragraph at lines 155--156
 [][] 
  []
 
-[6 <./Tendon.jpg> <./Tendon2.jpg>] [7]
-<Pneumatic1.jpg, id=50, 244.5135pt x 449.88075pt>
+
+Overfull \hbox (28.48918pt too wide) in paragraph at lines 148--159
+ [][] 
+ []
+
+[5 <./Tendon.jpg> <./Tendon2.jpg>]
+<Pneumatic1.jpg, id=44, 244.5135pt x 449.88075pt>
 File: Pneumatic1.jpg Graphic file (type jpg)
  <use Pneumatic1.jpg>
-Package pdftex.def Info: Pneumatic1.jpg used on input line 167.
-(pdftex.def)             Requested size: 156.49014pt x 287.93643pt.
+Package pdftex.def Info: Pneumatic1.jpg used on input line 165.
+(pdftex.def)             Requested size: 158.93188pt x 292.41902pt.
 
-Underfull \hbox (badness 3364) in paragraph at lines 171--175
-[]\OT1/cmr/m/n/10.95 The term un-der-ac-tu-ated de-scribes uni-ver-
+Underfull \hbox (badness 1874) in paragraph at lines 169--174
+\OT1/cmr/m/n/10.95 The term un-der-ac-tu-ated de-scribes uni-ver-sal
  []
 
 
-Underfull \hbox (badness 1237) in paragraph at lines 171--175
-\OT1/cmr/m/n/10.95 sal grip-pers falling some-where be-tween ac-
- []
-
-
-Underfull \hbox (badness 1796) in paragraph at lines 171--175
-\OT1/cmr/m/n/10.95 tive and pas-sive dis-tinc-tions [[]]. Pneu-
- []
-
-
-Underfull \hbox (badness 2042) in paragraph at lines 171--175
-\OT1/cmr/m/n/10.95 for han-dling del-i-cate and com-plex ob-jects
- []
-
-
-Underfull \hbox (badness 1365) in paragraph at lines 171--175
-\OT1/cmr/m/n/10.95 safely and se-curely whilst us-ing very sim-
- []
-
-
-Underfull \hbox (badness 1158) in paragraph at lines 171--175
-\OT1/cmr/m/n/10.95 tu-a-tion to oc-cur, the pneu-nets which are
- []
-
-
-Underfull \hbox (badness 1762) in paragraph at lines 171--175
-\OT1/cmr/m/n/10.95 the small chan-nels em-bed-ded in the elas-
- []
-
-
-Underfull \hbox (badness 2197) in paragraph at lines 171--175
-\OT1/cmr/m/n/10.95 tomer, are in-flated at low pres-sure, usu-
- []
-
-
-Underfull \hbox (badness 4366) in paragraph at lines 171--175
-\OT1/cmr/m/n/10.95 ally 50 KPa, caus-ing a in-crease of in-
- []
-
-
-Underfull \hbox (badness 3803) in paragraph at lines 171--175
-\OT1/cmr/m/n/10.95 ter-nal vol-ume of ap-prox-i-mately 20 times
- []
-
-
-Underfull \hbox (badness 5548) in paragraph at lines 171--175
-\OT1/cmr/m/n/10.95 nets ex-pand and press against one an-
- []
-
-
-Underfull \hbox (badness 2564) in paragraph at lines 171--175
-\OT1/cmr/m/n/10.95 the side which does not have the pneu-
- []
-
-
-Underfull \hbox (badness 3250) in paragraph at lines 171--175
-\OT1/cmr/m/n/10.95 nets lo-cated on it called the in-ex-ten-sive
- []
-
-
-Underfull \hbox (badness 1478) in paragraph at lines 171--175
-\OT1/cmr/m/n/10.95 side [[]]-[[]]. By re-duc-ing the pres-sure in
- []
-
-
-Underfull \hbox (badness 2503) in paragraph at lines 171--175
-\OT1/cmr/m/n/10.95 the pneu-nets be-low at-mo-spheric pres-sure,
- []
-
-
-Underfull \hbox (badness 1210) in paragraph at lines 171--175
-\OT1/cmr/m/n/10.95 a con-trac-tion in the pneu-net cham-bers is
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 171--175
+Underfull \hbox (badness 10000) in paragraph at lines 169--174
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--184
+Underfull \hbox (badness 5741) in paragraph at lines 169--174
+\OT1/cmr/m/n/10.95 Pressurised air was used to ac-tu-ate the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--183
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 181--184
+Underfull \hbox (badness 10000) in paragraph at lines 180--183
 
  []
 
-<Pneumatic2.jpg, id=51, 299.9205pt x 295.70474pt>
+[6 <./Pneumatic1.jpg>] <Pneumatic2.jpg, id=48, 299.9205pt x 295.70474pt>
 File: Pneumatic2.jpg Graphic file (type jpg)
- <use Pneumatic2.jpg>
-Package pdftex.def Info: Pneumatic2.jpg used on input line 189.
-(pdftex.def)             Requested size: 239.9367pt x 236.5641pt.
- [8 <./Pneumatic1.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 200--221
+
+<use Pneumatic2.jpg>
+Package pdftex.def Info: Pneumatic2.jpg used on input line 188.
+(pdftex.def)             Requested size: 194.946pt x 192.2058pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
+[]\OT1/cmr/m/n/10.95 Silgard 184 (PDMS)
+ []
+
+
+Overfull \hbox (21.74454pt too wide) in paragraph at lines 205--216
+ [][] 
+ []
+
+<gripped.jpg, id=49, 240.29774pt x 137.313pt>
+File: gripped.jpg Graphic file (type jpg)
+ <use gripped.jpg>
+Package pdftex.def Info: gripped.jpg used on input line 222.
+(pdftex.def)             Requested size: 156.19167pt x 89.25238pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--226
 
  []
+
+
+Underfull \hbox (badness 1946) in paragraph at lines 199--226
+\OT1/cmr/m/n/10.95 There is a def-i-nite trend in the ma-te-ri-als
+ []
+
+<jammer1.jpg, id=50, 325.81725pt x 177.0615pt>
+File: jammer1.jpg Graphic file (type jpg)
+ <use jammer1.jpg>
+Package pdftex.def Info: jammer1.jpg used on input line 229.
+(pdftex.def)             Requested size: 211.77869pt x 115.08858pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[9 <./Pneumatic2.jpg>] <jammer1.jpg, id=58, 325.81725pt x 177.0615pt>
-File: jammer1.jpg Graphic file (type jpg)
-
-<use jammer1.jpg>
-Package pdftex.def Info: jammer1.jpg used on input line 227.
-(pdftex.def)             Requested size: 184.9429pt x 100.50461pt.
- <jammer2.jpg, id=59, 387.849pt x 178.86826pt>
+[7 <./Pneumatic2.jpg> <./gripped.jpg>]
+<jammer2.jpg, id=54, 387.849pt x 178.86826pt>
 File: jammer2.jpg Graphic file (type jpg)
+ <use jammer2.jpg>
+Package pdftex.def Info: jammer2.jpg used on input line 244.
+(pdftex.def)             Requested size: 232.71118pt x 107.32178pt.
 
-<use jammer2.jpg>
-Package pdftex.def Info: jammer2.jpg used on input line 241.
-(pdftex.def)             Requested size: 310.2796pt x 143.09479pt.
- [10 <./jammer1.jpg> <./jammer2.jpg>] [11] ("Lit review.bbl"
-[12] [13]) [14] ("Lit review.aux")
+Overfull \hbox (2.83368pt too wide) in paragraph at lines 244--245
+ [][] 
+ []
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+[8 <./jammer1.jpg> <./jammer2.jpg>]
+Underfull \hbox (badness 1019) in paragraph at lines 274--277
+\OT1/cmr/m/n/10.95 an elec-tri-cal cur-rent [[]]. The ac-tu-a-tor is
+ []
 
- ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--277
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--277
+
+ []
+
+<electroactive.jpg, id=58, 377.61075pt x 343.2825pt>
+File: electroactive.jpg Graphic file (type jpg)
+ <use electroactive.jpg>
+Package pdftex.def Info: electroactive.jpg used on input line 280.
+(pdftex.def)             Requested size: 226.56819pt x 205.97107pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9 <./electroactive.jpg>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+("Lit review.bbl"
+Underfull \hbox (badness 1337) in paragraph at lines 39--43
+\OT1/cmr/m/n/10.95 M. Cianchetti, and C. Laschi, ``De-sign
+ []
+
+
+Underfull \hbox (badness 1917) in paragraph at lines 39--43
+\OT1/cmr/m/it/10.95 Medicine and Bi-ol-ogy So-ci-ety (EMBC),
+ []
+
+
+Underfull \hbox (badness 2582) in paragraph at lines 48--51
+[]\OT1/cmr/m/n/10.95 S. Kim, C. Laschi, and B. Trim-mer,
+ []
+
+[10]
+Underfull \hbox (badness 1584) in paragraph at lines 85--89
+[]\OT1/cmr/m/n/10.95 R. F. Shep-herd, F. Ilievski, W. Choi,
+ []
+
+
+Underfull \hbox (badness 3364) in paragraph at lines 113--117
+[]\OT1/cmr/m/n/10.95 E. Brown, N. Ro-den-berg, J. Amend,
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 113--117
+\OT1/cmr/m/it/10.95 Academy of Sci-ences\OT1/cmr/m/n/10.95 , vol. 107, no. 44,
+ []
+
+) [11] ("Lit review.aux") ) 
 Here is how much of TeX's memory you used:
- 2598 strings out of 493333
- 35202 string characters out of 3139197
- 106463 words of memory out of 3000000
- 6074 multiletter control sequences out of 15000+200000
+ 2611 strings out of 493333
+ 35422 string characters out of 3139197
+ 110489 words of memory out of 3000000
+ 6085 multiletter control sequences out of 15000+200000
  11013 words of font info for 38 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,12n,32p,1540b,291s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
-amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti
-12.pfb>
-Output written on "Lit review.pdf" (17 pages, 1721034 bytes).
+ 39i,12n,32p,1540b,281s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmti12.pfb>
+Output written on "Lit review.pdf" (14 pages, 1781025 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
+ 99 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 

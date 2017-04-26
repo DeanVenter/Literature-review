@@ -1,5 +1,13 @@
 \begin{thebibliography}{10}
 
+\bibitem{fresh_facts_2015}
+``Fresh facts 2015,'' Jun 2015.
+
+\bibitem{bogue2016flexible}
+R.~Bogue and R.~Bogue, ``Flexible and soft robotic grippers: the key to new
+  markets?,'' {\em Industrial Robot: An International Journal}, vol.~43, no.~3,
+  pp.~258--263, 2016.
+
 \bibitem{ilievski2011soft}
 F.~Ilievski, A.~D. Mazzeo, R.~F. Shepherd, X.~Chen, and G.~M. Whitesides,
   ``Soft robotics for chemists,'' {\em Angewandte Chemie}, vol.~123, no.~8,
@@ -32,9 +40,6 @@ T.~Hassan, M.~Manti, G.~Passetti, N.~d'Elia, M.~Cianchetti, and C.~Laschi,
   ``Design and development of a bio-inspired, under-actuated soft gripper,'' in
   {\em Engineering in Medicine and Biology Society (EMBC), 2015 37th Annual
   International Conference of the IEEE}, pp.~3619--3622, IEEE, 2015.
-
-\bibitem{fresh_facts_2015}
-``Fresh facts 2015,'' Jun 2015.
 
 \bibitem{injury_statistics_tool_2017}
 ``Injury statistics tool,'' Mar 2017.
@@ -110,17 +115,17 @@ E.~Brown, N.~Rodenberg, J.~Amend, A.~Mozeika, E.~Steltz, M.~R. Zakin,
   of granular material,'' {\em Proceedings of the National Academy of
   Sciences}, vol.~107, no.~44, pp.~18809--18814, 2010.
 
-\bibitem{mutlu2013electroactive}
-R.~Mutlu, G.~Alici, and W.~Li, ``Electroactive polymers as soft robotic
-  actuators: Electromechanical modeling and identification,'' in {\em Advanced
-  Intelligent Mechatronics (AIM), 2013 IEEE/ASME International Conference on},
-  pp.~1096--1101, IEEE, 2013.
-
 \bibitem{pillay2014review}
 V.~Pillay, T.-S. Tsai, Y.~E. Choonara, L.~C. du~Toit, P.~Kumar, G.~Modi,
   D.~Naidoo, L.~K. Tomar, C.~Tyagi, and V.~M. Ndesendo, ``A review of
   integrating electroactive polymers as responsive systems for specialized drug
   delivery applications,'' {\em Journal of Biomedical Materials Research Part
   A}, vol.~102, no.~6, pp.~2039--2054, 2014.
+
+\bibitem{mutlu2013electroactive}
+R.~Mutlu, G.~Alici, and W.~Li, ``Electroactive polymers as soft robotic
+  actuators: Electromechanical modeling and identification,'' in {\em Advanced
+  Intelligent Mechatronics (AIM), 2013 IEEE/ASME International Conference on},
+  pp.~1096--1101, IEEE, 2013.
 
 \end{thebibliography}
