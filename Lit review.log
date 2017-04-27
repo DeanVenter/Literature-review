@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.14)  26 APR 2017 18:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.14)  27 APR 2017 13:23
 entering extended mode
 **"./Lit review.tex"
 ("Lit review.tex"
@@ -588,11 +588,6 @@ Underfull \hbox (badness 1796) in paragraph at lines 52--59
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 52--59
-\OT1/cmr/m/n/10.95 prop-er-ties [[]]. The rigid-ity of the grip-per
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 52--59
 
  []
@@ -628,6 +623,11 @@ Underfull \hbox (badness 4341) in paragraph at lines 86--90
  []
 
 
+Underfull \hbox (badness 6725) in paragraph at lines 86--90
+\OT1/cmr/m/n/10.95 me-chan-i-cal and al-go-rith-mic com-plex-ity in
+ []
+
+
 Underfull \hbox (badness 1668) in paragraph at lines 86--90
 \OT1/cmr/m/n/10.95 of har-vest-ing the fruit del-i-cately to en-sure
  []
@@ -638,6 +638,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 86--90
  []
 
 [2 <./pie_imports.jpg> <./Pickers.jpg>]
+Underfull \hbox (badness 1270) in paragraph at lines 96--100
+\OT1/cmr/m/n/10.95 Each of the above-mentioned meth-ods have
+ []
+
+
 Underfull \hbox (badness 1221) in paragraph at lines 96--100
 \OT1/cmr/m/n/10.95 of a soft robotic grip-per greatly af-fects its
  []
@@ -663,13 +668,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 107--114
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 107--114
-\OT1/cmr/m/n/10.95 Figure 4[] is a con-cept for a ap-ple pick-ing
- []
-
-
-Underfull \hbox (badness 3029) in paragraph at lines 107--114
-\OT1/cmr/m/n/10.95 when han-dling del-i-cate pro-duce which are
+Underfull \hbox (badness 5490) in paragraph at lines 107--114
+\OT1/cmr/m/n/10.95 con-sid-er-ing this me-chan-i-cal grip-per, there
  []
 
 [3] <Mechanical1.jpg, id=33, 337.86224pt x 231.264pt>
@@ -706,15 +706,30 @@ Overfull \hbox (28.48918pt too wide) in paragraph at lines 148--159
  [][] 
  []
 
-[5 <./Tendon.jpg> <./Tendon2.jpg>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 4205) has occurred while \output is active []
+
+ [5]
 <Pneumatic1.jpg, id=44, 244.5135pt x 449.88075pt>
 File: Pneumatic1.jpg Graphic file (type jpg)
  <use Pneumatic1.jpg>
 Package pdftex.def Info: Pneumatic1.jpg used on input line 165.
 (pdftex.def)             Requested size: 158.93188pt x 292.41902pt.
 
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 Underfull \hbox (badness 1874) in paragraph at lines 169--174
 \OT1/cmr/m/n/10.95 The term un-der-ac-tu-ated de-scribes uni-ver-sal
+ []
+
+
+Underfull \hbox (badness 2088) in paragraph at lines 169--174
+\OT1/cmr/m/n/10.95 cham-bers, the pneu-nets ex-pand and press
  []
 
 
@@ -737,10 +752,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 180--183
 
  []
 
-[6 <./Pneumatic1.jpg>] <Pneumatic2.jpg, id=48, 299.9205pt x 295.70474pt>
+[6 <./Tendon.jpg> <./Tendon2.jpg> <./Pneumatic1.jpg>]
+<Pneumatic2.jpg, id=48, 299.9205pt x 295.70474pt>
 File: Pneumatic2.jpg Graphic file (type jpg)
-
-<use Pneumatic2.jpg>
+ <use Pneumatic2.jpg>
 Package pdftex.def Info: Pneumatic2.jpg used on input line 188.
 (pdftex.def)             Requested size: 194.946pt x 192.2058pt.
 
@@ -773,14 +788,11 @@ File: jammer1.jpg Graphic file (type jpg)
  <use jammer1.jpg>
 Package pdftex.def Info: jammer1.jpg used on input line 229.
 (pdftex.def)             Requested size: 211.77869pt x 115.08858pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[7 <./Pneumatic2.jpg> <./gripped.jpg>]
-<jammer2.jpg, id=54, 387.849pt x 178.86826pt>
+ [7 <./Pneumatic2.jpg> <./gripped.jpg>] <jammer2.jpg, id=54, 387.849pt x 178.86
+826pt>
 File: jammer2.jpg Graphic file (type jpg)
- <use jammer2.jpg>
+
+<use jammer2.jpg>
 Package pdftex.def Info: jammer2.jpg used on input line 244.
 (pdftex.def)             Requested size: 232.71118pt x 107.32178pt.
 
@@ -788,34 +800,61 @@ Overfull \hbox (2.83368pt too wide) in paragraph at lines 244--245
  [][] 
  []
 
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 [8 <./jammer1.jpg> <./jammer2.jpg>]
-Underfull \hbox (badness 1019) in paragraph at lines 274--277
-\OT1/cmr/m/n/10.95 an elec-tri-cal cur-rent [[]]. The ac-tu-a-tor is
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 274--277
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 274--277
-
- []
-
 <electroactive.jpg, id=58, 377.61075pt x 343.2825pt>
 File: electroactive.jpg Graphic file (type jpg)
  <use electroactive.jpg>
 Package pdftex.def Info: electroactive.jpg used on input line 280.
 (pdftex.def)             Requested size: 226.56819pt x 205.97107pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 274--284
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--295
+
+ []
+
+
+Underfull \hbox (badness 2781) in paragraph at lines 288--295
+\OT1/cmr/m/n/10.95 The ki-wifruit in-dus-try in New Zealand is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--295
+
+ []
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 288--295
+\OT1/cmr/m/n/10.95 A range of dif-fer-ent grip-ping meth-ods was
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9 <./electroactive.jpg>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [9]
+Underfull \vbox (badness 2680) has occurred while \output is active []
 
 
 ("Lit review.bbl"
+Underfull \hbox (badness 2205) in paragraph at lines 302--1
+\OT1/cmr/m/n/10.95 me-chan-i-cal grip-per is sim-ply and out-dated
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--1
+
+ []
+
+[10 <./electroactive.jpg>]
 Underfull \hbox (badness 1337) in paragraph at lines 39--43
 \OT1/cmr/m/n/10.95 M. Cianchetti, and C. Laschi, ``De-sign
  []
@@ -830,30 +869,30 @@ Underfull \hbox (badness 2582) in paragraph at lines 48--51
 []\OT1/cmr/m/n/10.95 S. Kim, C. Laschi, and B. Trim-mer,
  []
 
-[10]
-Underfull \hbox (badness 1584) in paragraph at lines 85--89
+[11]
+Underfull \hbox (badness 1584) in paragraph at lines 91--95
 []\OT1/cmr/m/n/10.95 R. F. Shep-herd, F. Ilievski, W. Choi,
  []
 
 
-Underfull \hbox (badness 3364) in paragraph at lines 113--117
+Underfull \hbox (badness 3364) in paragraph at lines 119--123
 []\OT1/cmr/m/n/10.95 E. Brown, N. Ro-den-berg, J. Amend,
  []
 
 
-Underfull \hbox (badness 1072) in paragraph at lines 113--117
+Underfull \hbox (badness 1072) in paragraph at lines 119--123
 \OT1/cmr/m/it/10.95 Academy of Sci-ences\OT1/cmr/m/n/10.95 , vol. 107, no. 44,
  []
 
-) [11] ("Lit review.aux") ) 
+) [12] ("Lit review.aux") ) 
 Here is how much of TeX's memory you used:
- 2611 strings out of 493333
- 35422 string characters out of 3139197
- 110489 words of memory out of 3000000
- 6085 multiletter control sequences out of 15000+200000
+ 2613 strings out of 493333
+ 35448 string characters out of 3139197
+ 112494 words of memory out of 3000000
+ 6087 multiletter control sequences out of 15000+200000
  11013 words of font info for 38 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,12n,32p,1540b,281s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,12n,32p,1543b,281s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
 onts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
 cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.
@@ -863,9 +902,9 @@ les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmti12.pfb>
-Output written on "Lit review.pdf" (14 pages, 1781025 bytes).
+Output written on "Lit review.pdf" (15 pages, 1784564 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
+ 102 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  66 words of extra memory for PDF output out of 10000 (max. 10000000)
 

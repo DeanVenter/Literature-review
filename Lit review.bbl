@@ -49,6 +49,12 @@ S.~Kim, C.~Laschi, and B.~Trimmer, ``Soft robotics: a bioinspired evolution in
   robotics,'' {\em Trends in biotechnology}, vol.~31, no.~5, pp.~287--294,
   2013.
 
+\bibitem{mutlu2013electroactive}
+R.~Mutlu, G.~Alici, and W.~Li, ``Electroactive polymers as soft robotic
+  actuators: Electromechanical modeling and identification,'' in {\em Advanced
+  Intelligent Mechatronics (AIM), 2013 IEEE/ASME International Conference on},
+  pp.~1096--1101, IEEE, 2013.
+
 \bibitem{martinez2014soft}
 R.~V. Martinez, A.~C. Glavan, C.~Keplinger, A.~I. Oyetibo, and G.~M.
   Whitesides, ``Soft actuators and robots that are resistant to mechanical
@@ -122,10 +128,8 @@ V.~Pillay, T.-S. Tsai, Y.~E. Choonara, L.~C. du~Toit, P.~Kumar, G.~Modi,
   delivery applications,'' {\em Journal of Biomedical Materials Research Part
   A}, vol.~102, no.~6, pp.~2039--2054, 2014.
 
-\bibitem{mutlu2013electroactive}
-R.~Mutlu, G.~Alici, and W.~Li, ``Electroactive polymers as soft robotic
-  actuators: Electromechanical modeling and identification,'' in {\em Advanced
-  Intelligent Mechatronics (AIM), 2013 IEEE/ASME International Conference on},
-  pp.~1096--1101, IEEE, 2013.
+\bibitem{wolf2008actively}
+S.~Wolf, A.~Albu-Sch{\"a}ffer, S.~Haddadin, and G.~Hirzinger, ``From actively
+  compliant lightweight robots to intrinsically compliant system,'' 2008.
 
 \end{thebibliography}
